@@ -1,0 +1,17 @@
+
+.back-black{
+    background-color: black;
+    padding: 9px 4px;
+}
+#mycards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+
+}
+.card{
+    width: 20rem;
+    /* height: 100px !important; */
+    display: block;
+
+}
